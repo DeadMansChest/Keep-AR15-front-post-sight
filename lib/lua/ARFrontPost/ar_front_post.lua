@@ -1,8 +1,6 @@
 io.stdout:write("\n[ARFP] ar_front_post.lua...")
 
 if DMCWO == nil then
-
-	if not tweak_data then return end
 	
 	tweak_data.weapon.factory.wpn_fps_smg_olympic.adds = { 
 			wpn_fps_upg_o_specter = {"wpn_fps_ass_m16_os_frontsight"},

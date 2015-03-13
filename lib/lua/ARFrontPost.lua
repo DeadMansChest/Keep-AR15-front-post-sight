@@ -6,4 +6,4 @@ v1.2
 DMC
 ]]
 
-RegisterScript("lib/lua/ARFrontPost/ar_front_post.lua", 2, "lib/tweak_data/weaponfactorytweakdata")
+RegisterScript("lib/lua/ARFrontPost/ar_front_post.lua", 2, "lib/tweak_data/tweakdata")
